@@ -5,6 +5,10 @@ Este repositório contém dois conjuntos de experimentos de aprendizado de máqu
 2. **Detecção de Pessoas e Objetos em Imagens com YOLOv8 e Teachable Machine**
 
 ---
+## Integrantes
+### CAIO NYIMI - RM556331
+### HENZO PUCHETTI - RM555179
+### LUANN MARIANO - RM558548
 
 ## Parte 1 – Classificação e Regressão
 
