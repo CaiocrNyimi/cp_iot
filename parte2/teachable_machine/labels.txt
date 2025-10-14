@@ -1,0 +1,2 @@
+0 Pessoa
+1 Não Pessoa
