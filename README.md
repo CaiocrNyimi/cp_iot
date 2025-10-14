@@ -6,9 +6,9 @@ Este repositório contém dois conjuntos de experimentos de aprendizado de máqu
 
 ---
 ## Integrantes
-### CAIO NYIMI - RM556331
-### HENZO PUCHETTI - RM555179
-### LUANN MARIANO - RM558548
+CAIO NYIMI - RM556331
+HENZO PUCHETTI - RM555179
+LUANN MARIANO - RM558548
 
 ## Parte 1 – Classificação e Regressão
 
